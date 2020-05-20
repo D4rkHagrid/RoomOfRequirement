@@ -1,2 +1,2 @@
 # RoomOfRequirement
-This is a collection of self-written Tools and Cheat Sheets in the context of IT-Secuirty. 
+This is a collection of self-written tools and cheat sheets in the context of IT-Security. 
